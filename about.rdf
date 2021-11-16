@@ -12,19 +12,19 @@
     <dc:title>Hajarani Syadzwana</dc:title>
     <dc:nim>201401082</dc:nim>
     <dc:email>hajaranisyadzwana09@gmail.com</dc:email>
-    <dc:gambar>raihandi.jpeg</dc:gambar>
+    <dc:gambar>gambar/raihandi.jpeg</dc:gambar>
   </rdf:Description>
     <rdf:Description rdf:about="orang3" >
     <dc:title>Hajarani </dc:title>
     <dc:nim>201401082</dc:nim>
     <dc:email>hajaranisyadzwana09@gmail.com</dc:email>
-    <dc:gambar>shafira.jpeg</dc:gambar>
+    <dc:gambar>gambar/shafira.jpeg</dc:gambar>
   </rdf:Description>
     <rdf:Description rdf:about="orang4" >
     <dc:title>Hajarani Syadzwana</dc:title>
     <dc:nim>201401082</dc:nim>
     <dc:email>hajaranisyadzwana09@gmail.com</dc:email>
-    <dc:gambar>ultari.jpeg</dc:gambar>
+    <dc:gambar>gambar/ultari.jpeg</dc:gambar>
   </rdf:Description>
 
 </rdf:RDF>
