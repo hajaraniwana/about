@@ -12,19 +12,19 @@
     <foaf:name>Muhammad Raihandi Jamal R</foaf:name>
     <dc:nim>201401053</dc:nim>
     <dc:email>raihanritonga170882@gmail.com</dc:email>
-    <foaf:img>gambar\raihandi.jpeg</foaf:img>
+    <foaf:img>https://hajaraniwana.github.io/kopi/raihandi.jpeg</foaf:img>
   </rdf:Description>
     <rdf:Description rdf:about="orang3" >
     <foaf:name>Shafira Van Deyli</foaf:name>
     <dc:nim>201401067</dc:nim>
     <dc:email>shafiravandeyli10@gmail.com</dc:email>
-    <foaf:img>gambar\shafira.jpeg</foaf:img>
+    <foaf:img>https://hajaraniwana.github.io/kopi/shafira.jpeg</foaf:img>
   </rdf:Description>
     <rdf:Description rdf:about="orang4" >
     <foaf:name>Ultari Efendi Chania</foaf:name>
     <dc:nim>201401137</dc:nim>
     <dc:email>ultariefendichaniago10@gmail.com</dc:email>
-    <foaf:img>gambar\ultari.jpeg</foaf:img>
+    <foaf:img>https://hajaraniwana.github.io/kopi/ultari.jpeg</foaf:img>
   </rdf:Description>
 
 </rdf:RDF>
