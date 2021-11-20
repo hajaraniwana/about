@@ -1,30 +1,30 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
          xmlns:dc="http://purl.org/dc/elements/1.1/"
-         xmlns:v="http://www.w3.org/2006/vcard/">
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
   <rdf:Description rdf:about="orang1" >
-    <dc:title>Hajarani Syadzwana</dc:title>
+    <foaf:name>Hajarani Syadzwana</foaf:name>
     <dc:nim>201401082</dc:nim>
     <dc:email>hajaranisyadzwana09@gmail.com</dc:email>
-    <dc:gambar>https://hajaraniwana.github.io/kopi/IMG-20211003-WA0006.jpg</dc:gambar>
+    <foaf:img>https://hajaraniwana.github.io/kopi/IMG-20211003-WA0006.jpg</foaf:img>
   </rdf:Description>
     <rdf:Description rdf:about="orang2" >
-    <dc:title>Muhammad Raihandi Jamal R</dc:title>
+    <foaf:name>Muhammad Raihandi Jamal R</foaf:name>
     <dc:nim>201401053</dc:nim>
     <dc:email>raihanritonga170882@gmail.com</dc:email>
-    <dc:gambar>gambar\raihandi.jpeg</dc:gambar>
+    <foaf:img>gambar\raihandi.jpeg</foaf:img>
   </rdf:Description>
     <rdf:Description rdf:about="orang3" >
-    <dc:title>Shafira Van Deyli</dc:title>
+    <foaf:name>Shafira Van Deyli</foaf:name>
     <dc:nim>201401067</dc:nim>
     <dc:email>shafiravandeyli10@gmail.com</dc:email>
-    <dc:gambar>gambar\shafira.jpeg</dc:gambar>
+    <foaf:img>gambar\shafira.jpeg</foaf:img>
   </rdf:Description>
     <rdf:Description rdf:about="orang4" >
-    <dc:title>Ultari Efendi Chania</dc:title>
+    <foaf:name>Ultari Efendi Chania</foaf:name>
     <dc:nim>201401137</dc:nim>
     <dc:email>ultariefendichaniago10@gmail.com</dc:email>
-    <dc:gambar>gambar\ultari.jpeg</dc:gambar>
+    <foaf:img>gambar\ultari.jpeg</foaf:img>
   </rdf:Description>
 
 </rdf:RDF>
